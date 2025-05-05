@@ -1,0 +1,13 @@
+textarea {
+    width: 400px;
+    height: 400px;
+    /* text-transform: capitalize; */
+}
+
+textarea::first-letter{
+    text-transform: uppercase;
+}
+
+span {
+    color: rgb(1, 255, 56);
+}
