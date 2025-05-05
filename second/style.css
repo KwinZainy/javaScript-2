@@ -1,7 +1,7 @@
 textarea {
     width: 400px;
     height: 400px;
-    /* text-transform: capitalize; */
+    text-transform: capitalize;
 }
 
 textarea::first-letter{
