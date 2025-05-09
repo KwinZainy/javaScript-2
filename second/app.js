@@ -11,16 +11,16 @@ function textLength(){
 
 }
 
-// function onChange(){
-//         // counter
-//         let count = textarea.value.length
-//         counter.innerText = count
+function onChange(){
+        // counter
+        let count = textarea.value.length
+        counter.innerText = count
 
-//         if(textarea.value.length >= 250 && counter.innerText >= 250){
-//             colorChange.style.color = "red"
-//             counter.style.color = "red"
-//         }
-// }
+        if(textarea.value.length >= 250 && counter.innerText >= 250){
+            colorChange.style.color = "red"
+            counter.style.color = "red"
+        }
+}
 
 
 
