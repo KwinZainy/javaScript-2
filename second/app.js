@@ -3,13 +3,13 @@ const submit = document.getElementById('submit')
 const counter = document.getElementById('counter')
 const colorChange = document.getElementById("colorChange")
 
-function textLength(){
-    if(textarea.value.length >= 20){
-        alert('too much words')
-    }
+// function textLength(){
+//     if(textarea.value.length >= 20){
+//         alert('too much words')
+//     }
 
 
-}
+// }
 
 function onChange(){
         // counter
